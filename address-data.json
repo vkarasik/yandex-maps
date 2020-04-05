@@ -1,0 +1,156 @@
+{
+    "xistore": [
+        {
+            "coordinates": [
+                53.890224,
+                27.554375
+            ],
+            "properties": {
+                "hintContent": "Ксистор",
+                "balloonContentHeader": "Ксистор",
+                "balloonContentBody": "ул. Бобруйская, д. 6, ст. м. «Площадь Ленина» (1 этаж, возле главного входа) (ТРЦ \"Galileo\")",
+                "balloonContentFooter": "<a href=\"#\">www.xistore.by</a>"
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        },
+        {
+            "coordinates": [
+                53.859605,
+                27.674022
+            ],
+            "properties": {
+                "hintContent": "Ксистор",
+                "balloonContentHeader": "Ксистор",
+                "balloonContentBody": "Партизанский пр-т, д. 150А, ст. м. «Могилевская» (2 этаж, остров)",
+                "balloonContentFooter": "<a href=\"#\">www.xistore.by</a>"
+
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        }
+    ],
+    "patio": [
+        {
+            "coordinates": [
+                53.908554,
+                27.548599
+            ],
+            "properties": {
+                "hintContent": "5 Элемент",
+                "balloonContentHeader": "5 Элемент",
+                "balloonContentBody": "проспект Победителей, 9",
+                "balloonContentFooter": "<a href=\"#\">www.5element.by</a>"
+
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        }
+    ],
+    "materik": [
+        {
+            "coordinates": [
+                53.905557,
+                27.433740
+            ],
+            "properties": {
+                "hintContent": "Материк",
+                "balloonContentHeader": "Материк",
+                "balloonContentBody": "ул. Притыцкого, 101",
+                "balloonContentFooter": "<a href=\"#\">www.diy.by</a>"
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        }
+    ],
+    "svetilkin": [
+        {
+            "coordinates": [
+                53.888887,
+                27.580552
+            ],
+            "properties": {
+                "hintContent": "Светилкин — светотехнический магазин",
+                "balloonContentHeader": "Светилкин — светотехнический магазин",
+                "balloonContentBody": "Минск, улица Ленина, 27, павильон 46 (шоу-рум). <br />График работы: ежедневно с 10:00 до 20:00 без перерыва.<br /> Телефон: +375 (29) 602-33-11, +375 (29) 364-26-97",
+                "balloonContentFooter": "<a href=\"#\">www.svetilkin.by</a>"
+                
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        },
+        {
+            "coordinates": [
+                53.933439,
+                27.632295
+            ],
+            "properties": {
+                "hintContent": "Светилкин — светотехнический магазин",
+                "balloonContentHeader": "Светилкин — светотехнический магазин",
+                "balloonContentBody": "Минск, улица Кедышко, 24 (магазин-склад). <br />График работы: понедельник - пятница с 08:30 до 18:00 без перерыва. Выходной: Суббота, Воскресенье. <br />Телефон: +375 (29) 603-01-43",
+                "balloonContentFooter": "<a href=\"#\">www.svetilkin.by</a>"
+                
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        }
+    ],
+    "flamingo": [
+        {
+            "coordinates": [
+                53.929611,
+                27.584702
+            ],
+            "properties": {
+                "hintContent": "Фламинго — салон-магазин по продаже светильников",
+                "balloonContentHeader": "Фламинго — салон-магазин по продаже светильников",
+                "balloonContentBody": "Минск, улица Сурганова, 54. <br />График работы: c 10:00 до 20:00, без выходных. <br />Телефон: +375 (44) 517-00-00",
+                "balloonContentFooter": "<a href=\"#\">www.flamingo.by</a>"
+            },
+            "options": {
+                "iconLayout": "default#image",
+                "iconImageHref": "pin.svg",
+                "iconImageSize": [
+                    35,
+                    35
+                ]
+            }
+        }
+    ]
+}
